@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Task Timer</string>
+    <string name="action_settings">Settings</string>
+    <string name="menutitle_addTask">Add Task</string>
+    <string name="menutitle_showDurations">Show Duration</string>
+    <string name="mainmenu_showDuration">Duration Report</string>
+    <string name="menumain_settings">Settings</string>
+    <string name="menumain_showAbout">About Task Timer</string>
+    <string name="mainumain_generate">Generate data</string>
+    <string name="no_task_message">No Task Selected</string>
+    <string name="edit_button_description">Edit task Details</string>
+    <string name="delete_button_description">Button to delete Task</string>
+    <string name="addedit_description">Add Description</string>
+    <string name="addedit_name">Add Name</string>
+    <string name="addedit_sortorder">Add SortOrder</string>
+    <string name="add_edit_save">SAVE</string>
+    <string name="addedit_sortorder1">Add SortOrder</string>
+    <string name="title_activity_add_edit">AddEditActivity</string>
+    <string name="instruction_heading">INSTRUCTIONS</string>
+    <string name="instructions">Use the (+) button above to create new task.  Tasks with lower sortorder wil be placed higher up in the list.Task with same sortorder will be sorted alphabetically.  Tapping the timer will start the timer for that task(and stop any previous task timer)  Each Task has Edit or delete button if you want to edit or delete a task</string>
+</resources>
