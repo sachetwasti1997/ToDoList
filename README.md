@@ -6,3 +6,4 @@ database, ie actions as update, delete, querying the database. But in the workin
 an entry in the database using their IDs.
 Finally a CursorLoader is used to load the data from the database, which is then displayed in the mobile console using a
 RecyclerView.
+Fragment is used for displaying the task along with the add, edit screens in case of large screen size.
