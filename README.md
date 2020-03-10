@@ -1,4 +1,4 @@
-# ToDoList
+# TaskRecorder
 This Android App lets us create a ToDo list, where we can put our tasks according to our priority and delete them when finished.
 Also we have the functionality of editing our Tasks if we want to change for example their priorities.
 The information entered by user is stored using a database. In this app I provided a contentProvider to handle the actions on
